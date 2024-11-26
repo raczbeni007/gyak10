@@ -15,6 +15,6 @@ steps:
     versionSpec: '3.x'
     addToPath: true
 - script: |
-  python hello.py
+    python hello.py
   displayName: 'Run hello.py'
  
